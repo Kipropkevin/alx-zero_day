@@ -1,0 +1,6 @@
+Debugger entered--Lisp error: (void-variable qw)
+  eval(qw nil)
+  eval-expression(qw nil nil 127)
+  funcall-interactively(eval-expression qw nil nil 127)
+  call-interactively(eval-expression nil nil)
+  command-execute(eval-expression)
